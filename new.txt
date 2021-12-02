@@ -1,1 +1,2 @@
-bcvbcb
+bcvbcb in 1st string
+in 2nd string  первый файл изменён 3-37
